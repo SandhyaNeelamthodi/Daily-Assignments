@@ -1,0 +1,8 @@
+D:\dotnet training\Day9\NEW\NEW\bin\Debug\NEW.exe.config
+D:\dotnet training\Day9\NEW\NEW\bin\Debug\NEW.exe
+D:\dotnet training\Day9\NEW\NEW\bin\Debug\NEW.pdb
+D:\dotnet training\Day9\NEW\NEW\obj\Debug\NEW.csproj.AssemblyReference.cache
+D:\dotnet training\Day9\NEW\NEW\obj\Debug\NEW.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day9\NEW\NEW\obj\Debug\NEW.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day9\NEW\NEW\obj\Debug\NEW.exe
+D:\dotnet training\Day9\NEW\NEW\obj\Debug\NEW.pdb

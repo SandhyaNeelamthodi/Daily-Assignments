@@ -1,0 +1,8 @@
+D:\dotnet training\Day 5\bank\bank\bin\Debug\bank.exe.config
+D:\dotnet training\Day 5\bank\bank\bin\Debug\bank.exe
+D:\dotnet training\Day 5\bank\bank\bin\Debug\bank.pdb
+D:\dotnet training\Day 5\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+D:\dotnet training\Day 5\bank\bank\obj\Debug\bank.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 5\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 5\bank\bank\obj\Debug\bank.exe
+D:\dotnet training\Day 5\bank\bank\obj\Debug\bank.pdb

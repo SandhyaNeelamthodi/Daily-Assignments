@@ -1,0 +1,8 @@
+D:\dotnet training\Day9\indexer\indexer\bin\Debug\indexer.exe.config
+D:\dotnet training\Day9\indexer\indexer\bin\Debug\indexer.exe
+D:\dotnet training\Day9\indexer\indexer\bin\Debug\indexer.pdb
+D:\dotnet training\Day9\indexer\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+D:\dotnet training\Day9\indexer\indexer\obj\Debug\indexer.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day9\indexer\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day9\indexer\indexer\obj\Debug\indexer.exe
+D:\dotnet training\Day9\indexer\indexer\obj\Debug\indexer.pdb
