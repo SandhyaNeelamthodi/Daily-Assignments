@@ -1,0 +1,8 @@
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\bin\Debug\MISSING NO.exe.config
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\bin\Debug\MISSING NO.exe
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\bin\Debug\MISSING NO.pdb
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\obj\Debug\MISSING NO.csproj.AssemblyReference.cache
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\obj\Debug\MISSING NO.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\obj\Debug\MISSING NO.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\obj\Debug\MISSING NO.exe
+D:\dotnet training\Day 13\MISSING NO\MISSING NO\obj\Debug\MISSING NO.pdb

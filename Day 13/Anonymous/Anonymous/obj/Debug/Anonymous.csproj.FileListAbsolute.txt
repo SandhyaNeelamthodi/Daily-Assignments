@@ -1,0 +1,8 @@
+D:\dotnet training\Day 12\Anonymous\Anonymous\bin\Debug\Anonymous.exe.config
+D:\dotnet training\Day 12\Anonymous\Anonymous\bin\Debug\Anonymous.exe
+D:\dotnet training\Day 12\Anonymous\Anonymous\bin\Debug\Anonymous.pdb
+D:\dotnet training\Day 12\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.AssemblyReference.cache
+D:\dotnet training\Day 12\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 12\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 12\Anonymous\Anonymous\obj\Debug\Anonymous.exe
+D:\dotnet training\Day 12\Anonymous\Anonymous\obj\Debug\Anonymous.pdb

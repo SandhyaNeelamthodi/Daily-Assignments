@@ -1,0 +1,8 @@
+D:\dotnet training\Day 13\streamfile\streamfile\bin\Debug\streamfile.exe.config
+D:\dotnet training\Day 13\streamfile\streamfile\bin\Debug\streamfile.exe
+D:\dotnet training\Day 13\streamfile\streamfile\bin\Debug\streamfile.pdb
+D:\dotnet training\Day 13\streamfile\streamfile\obj\Debug\streamfile.csproj.AssemblyReference.cache
+D:\dotnet training\Day 13\streamfile\streamfile\obj\Debug\streamfile.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 13\streamfile\streamfile\obj\Debug\streamfile.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 13\streamfile\streamfile\obj\Debug\streamfile.exe
+D:\dotnet training\Day 13\streamfile\streamfile\obj\Debug\streamfile.pdb
