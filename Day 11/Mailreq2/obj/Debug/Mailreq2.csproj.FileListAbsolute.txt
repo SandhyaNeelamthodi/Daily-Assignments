@@ -1,0 +1,8 @@
+D:\dotnet training\Day 11\Mailreq2\bin\Debug\Mailreq2.exe.config
+D:\dotnet training\Day 11\Mailreq2\bin\Debug\Mailreq2.exe
+D:\dotnet training\Day 11\Mailreq2\bin\Debug\Mailreq2.pdb
+D:\dotnet training\Day 11\Mailreq2\obj\Debug\Mailreq2.csproj.AssemblyReference.cache
+D:\dotnet training\Day 11\Mailreq2\obj\Debug\Mailreq2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 11\Mailreq2\obj\Debug\Mailreq2.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 11\Mailreq2\obj\Debug\Mailreq2.exe
+D:\dotnet training\Day 11\Mailreq2\obj\Debug\Mailreq2.pdb
