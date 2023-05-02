@@ -1,0 +1,8 @@
+D:\dotnet training\Day 12\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\dotnet training\Day 12\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\dotnet training\Day 12\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\dotnet training\Day 12\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\dotnet training\Day 12\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 12\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 12\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\dotnet training\Day 12\Delegates\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,8 @@
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\bin\Debug\BankExceptionss.exe.config
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\bin\Debug\BankExceptionss.exe
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\bin\Debug\BankExceptionss.pdb
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\obj\Debug\BankExceptionss.exe
+D:\dotnet training\Day 12\BankExceptionss\BankExceptionss\obj\Debug\BankExceptionss.pdb

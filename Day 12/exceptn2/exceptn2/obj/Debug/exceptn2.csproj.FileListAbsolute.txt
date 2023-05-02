@@ -1,0 +1,8 @@
+D:\dotnet training\Day 12\exceptn2\exceptn2\bin\Debug\exceptn2.exe.config
+D:\dotnet training\Day 12\exceptn2\exceptn2\bin\Debug\exceptn2.exe
+D:\dotnet training\Day 12\exceptn2\exceptn2\bin\Debug\exceptn2.pdb
+D:\dotnet training\Day 12\exceptn2\exceptn2\obj\Debug\exceptn2.csproj.AssemblyReference.cache
+D:\dotnet training\Day 12\exceptn2\exceptn2\obj\Debug\exceptn2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 12\exceptn2\exceptn2\obj\Debug\exceptn2.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 12\exceptn2\exceptn2\obj\Debug\exceptn2.exe
+D:\dotnet training\Day 12\exceptn2\exceptn2\obj\Debug\exceptn2.pdb

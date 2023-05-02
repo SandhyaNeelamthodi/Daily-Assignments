@@ -1,0 +1,8 @@
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\bin\Debug\EXCEPTION.exe.config
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\bin\Debug\EXCEPTION.exe
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\bin\Debug\EXCEPTION.pdb
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\obj\Debug\EXCEPTION.csproj.AssemblyReference.cache
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\obj\Debug\EXCEPTION.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\obj\Debug\EXCEPTION.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\obj\Debug\EXCEPTION.exe
+D:\dotnet training\Day 12\EXCEPTION\EXCEPTION\obj\Debug\EXCEPTION.pdb
