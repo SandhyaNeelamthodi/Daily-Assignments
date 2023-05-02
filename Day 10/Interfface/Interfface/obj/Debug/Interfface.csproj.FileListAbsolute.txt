@@ -1,0 +1,8 @@
+D:\dotnet training\Day9\Interfface\Interfface\obj\Debug\Interfface.csproj.AssemblyReference.cache
+D:\dotnet training\Day9\Interfface\Interfface\obj\Debug\Interfface.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day9\Interfface\Interfface\obj\Debug\Interfface.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day9\Interfface\Interfface\bin\Debug\Interfface.exe.config
+D:\dotnet training\Day9\Interfface\Interfface\bin\Debug\Interfface.exe
+D:\dotnet training\Day9\Interfface\Interfface\bin\Debug\Interfface.pdb
+D:\dotnet training\Day9\Interfface\Interfface\obj\Debug\Interfface.exe
+D:\dotnet training\Day9\Interfface\Interfface\obj\Debug\Interfface.pdb
