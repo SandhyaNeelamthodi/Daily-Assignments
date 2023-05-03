@@ -1,0 +1,8 @@
+D:\dotnet training\Day 19\Swap\Swap\bin\Debug\Swap.exe.config
+D:\dotnet training\Day 19\Swap\Swap\bin\Debug\Swap.exe
+D:\dotnet training\Day 19\Swap\Swap\bin\Debug\Swap.pdb
+D:\dotnet training\Day 19\Swap\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+D:\dotnet training\Day 19\Swap\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 19\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 19\Swap\Swap\obj\Debug\Swap.exe
+D:\dotnet training\Day 19\Swap\Swap\obj\Debug\Swap.pdb

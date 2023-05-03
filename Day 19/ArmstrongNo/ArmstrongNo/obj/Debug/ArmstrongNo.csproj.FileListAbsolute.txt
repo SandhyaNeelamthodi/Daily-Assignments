@@ -1,0 +1,8 @@
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\bin\Debug\ArmstrongNo.exe.config
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\bin\Debug\ArmstrongNo.exe
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\bin\Debug\ArmstrongNo.pdb
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\obj\Debug\ArmstrongNo.csproj.AssemblyReference.cache
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\obj\Debug\ArmstrongNo.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\obj\Debug\ArmstrongNo.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\obj\Debug\ArmstrongNo.exe
+D:\dotnet training\Day 19\ArmstrongNo\ArmstrongNo\obj\Debug\ArmstrongNo.pdb

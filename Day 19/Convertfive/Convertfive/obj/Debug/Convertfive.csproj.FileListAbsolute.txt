@@ -1,0 +1,8 @@
+D:\dotnet training\Day 19\Convertfive\Convertfive\bin\Debug\Convertfive.exe.config
+D:\dotnet training\Day 19\Convertfive\Convertfive\bin\Debug\Convertfive.exe
+D:\dotnet training\Day 19\Convertfive\Convertfive\bin\Debug\Convertfive.pdb
+D:\dotnet training\Day 19\Convertfive\Convertfive\obj\Debug\Convertfive.csproj.AssemblyReference.cache
+D:\dotnet training\Day 19\Convertfive\Convertfive\obj\Debug\Convertfive.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 19\Convertfive\Convertfive\obj\Debug\Convertfive.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 19\Convertfive\Convertfive\obj\Debug\Convertfive.exe
+D:\dotnet training\Day 19\Convertfive\Convertfive\obj\Debug\Convertfive.pdb
