@@ -1,0 +1,1 @@
+create table Department(deptId int,deptName varchar(20),salary int);
