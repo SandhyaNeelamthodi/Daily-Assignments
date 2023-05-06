@@ -1,0 +1,8 @@
+D:\dotnet training\Day 16\SortedList\SortedList\bin\Debug\SortedList.exe.config
+D:\dotnet training\Day 16\SortedList\SortedList\bin\Debug\SortedList.exe
+D:\dotnet training\Day 16\SortedList\SortedList\bin\Debug\SortedList.pdb
+D:\dotnet training\Day 16\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+D:\dotnet training\Day 16\SortedList\SortedList\obj\Debug\SortedList.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 16\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 16\SortedList\SortedList\obj\Debug\SortedList.exe
+D:\dotnet training\Day 16\SortedList\SortedList\obj\Debug\SortedList.pdb
