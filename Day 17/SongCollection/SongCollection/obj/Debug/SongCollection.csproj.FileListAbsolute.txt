@@ -1,0 +1,8 @@
+D:\dotnet training\Day 16\SongCollection\SongCollection\bin\Debug\SongCollection.exe.config
+D:\dotnet training\Day 16\SongCollection\SongCollection\bin\Debug\SongCollection.exe
+D:\dotnet training\Day 16\SongCollection\SongCollection\bin\Debug\SongCollection.pdb
+D:\dotnet training\Day 16\SongCollection\SongCollection\obj\Debug\SongCollection.csproj.AssemblyReference.cache
+D:\dotnet training\Day 16\SongCollection\SongCollection\obj\Debug\SongCollection.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 16\SongCollection\SongCollection\obj\Debug\SongCollection.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 16\SongCollection\SongCollection\obj\Debug\SongCollection.exe
+D:\dotnet training\Day 16\SongCollection\SongCollection\obj\Debug\SongCollection.pdb
