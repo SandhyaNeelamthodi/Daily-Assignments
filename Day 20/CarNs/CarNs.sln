@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarNs", "CarNs\CarNs.csproj", "{14B9AB4D-9D2B-4F04-AD9C-15A4E357A61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarUI", "CarUI\CarUI.csproj", "{B0A96850-6A06-4B16-AA36-429F79F8758D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTests", "CarTests\CarTests.csproj", "{3B47A2B4-F737-4131-936F-DAF6D2B2F157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B9AB4D-9D2B-4F04-AD9C-15A4E357A61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B9AB4D-9D2B-4F04-AD9C-15A4E357A61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B9AB4D-9D2B-4F04-AD9C-15A4E357A61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B9AB4D-9D2B-4F04-AD9C-15A4E357A61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A96850-6A06-4B16-AA36-429F79F8758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A96850-6A06-4B16-AA36-429F79F8758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A96850-6A06-4B16-AA36-429F79F8758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A96850-6A06-4B16-AA36-429F79F8758D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B47A2B4-F737-4131-936F-DAF6D2B2F157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B47A2B4-F737-4131-936F-DAF6D2B2F157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B47A2B4-F737-4131-936F-DAF6D2B2F157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B47A2B4-F737-4131-936F-DAF6D2B2F157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0071F692-F0DE-4AE8-AE4F-3F414F1176CE}
+	EndGlobalSection
+EndGlobal

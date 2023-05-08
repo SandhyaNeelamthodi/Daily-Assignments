@@ -1,0 +1,6 @@
+D:\dotnet training\Day 20\CarNs\CarNs\bin\Debug\CarNs.dll
+D:\dotnet training\Day 20\CarNs\CarNs\bin\Debug\CarNs.pdb
+D:\dotnet training\Day 20\CarNs\CarNs\obj\Debug\CarNs.csproj.AssemblyReference.cache
+D:\dotnet training\Day 20\CarNs\CarNs\obj\Debug\CarNs.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 20\CarNs\CarNs\obj\Debug\CarNs.dll
+D:\dotnet training\Day 20\CarNs\CarNs\obj\Debug\CarNs.pdb
