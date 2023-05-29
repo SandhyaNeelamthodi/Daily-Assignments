@@ -1,0 +1,8 @@
+D:\dotnet training\Day 42\Que1\Candle\bin\Debug\Candle.exe.config
+D:\dotnet training\Day 42\Que1\Candle\bin\Debug\Candle.exe
+D:\dotnet training\Day 42\Que1\Candle\bin\Debug\Candle.pdb
+D:\dotnet training\Day 42\Que1\Candle\obj\Debug\Que1.csproj.AssemblyReference.cache
+D:\dotnet training\Day 42\Que1\Candle\obj\Debug\Que1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 42\Que1\Candle\obj\Debug\Que1.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 42\Que1\Candle\obj\Debug\Candle.exe
+D:\dotnet training\Day 42\Que1\Candle\obj\Debug\Candle.pdb
