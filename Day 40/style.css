@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    padding: 20px 0;
+  }
+  
+  section {
+    padding: 80px 0;
+  }
+  
+  section h2 {
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    margin-top: 40px;
+    color: #fff;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    margin-bottom: 20px;
+  }
+  

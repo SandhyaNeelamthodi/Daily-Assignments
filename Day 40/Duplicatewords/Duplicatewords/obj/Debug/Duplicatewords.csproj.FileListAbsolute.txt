@@ -1,0 +1,8 @@
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\bin\Debug\Duplicatewords.exe.config
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\bin\Debug\Duplicatewords.exe
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\bin\Debug\Duplicatewords.pdb
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\obj\Debug\Duplicatewords.csproj.AssemblyReference.cache
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\obj\Debug\Duplicatewords.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\obj\Debug\Duplicatewords.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\obj\Debug\Duplicatewords.exe
+D:\dotnet training\Day 40\Duplicatewords\Duplicatewords\obj\Debug\Duplicatewords.pdb

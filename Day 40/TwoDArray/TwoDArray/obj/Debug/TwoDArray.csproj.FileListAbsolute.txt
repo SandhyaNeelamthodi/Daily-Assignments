@@ -1,0 +1,8 @@
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\bin\Debug\TwoDArray.exe.config
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\bin\Debug\TwoDArray.exe
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\bin\Debug\TwoDArray.pdb
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\obj\Debug\TwoDArray.csproj.AssemblyReference.cache
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\obj\Debug\TwoDArray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\obj\Debug\TwoDArray.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\obj\Debug\TwoDArray.exe
+D:\dotnet training\Day 40\TwoDArray\TwoDArray\obj\Debug\TwoDArray.pdb

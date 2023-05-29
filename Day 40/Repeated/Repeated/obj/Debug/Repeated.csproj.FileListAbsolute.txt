@@ -1,0 +1,8 @@
+D:\dotnet training\Day 40\Repeated\Repeated\bin\Debug\Repeated.exe.config
+D:\dotnet training\Day 40\Repeated\Repeated\bin\Debug\Repeated.exe
+D:\dotnet training\Day 40\Repeated\Repeated\bin\Debug\Repeated.pdb
+D:\dotnet training\Day 40\Repeated\Repeated\obj\Debug\Repeated.csproj.AssemblyReference.cache
+D:\dotnet training\Day 40\Repeated\Repeated\obj\Debug\Repeated.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 40\Repeated\Repeated\obj\Debug\Repeated.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 40\Repeated\Repeated\obj\Debug\Repeated.exe
+D:\dotnet training\Day 40\Repeated\Repeated\obj\Debug\Repeated.pdb

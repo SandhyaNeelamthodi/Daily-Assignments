@@ -1,0 +1,8 @@
+D:\dotnet training\Day 40\Inputarray\Inputarray\bin\Debug\Inputarray.exe.config
+D:\dotnet training\Day 40\Inputarray\Inputarray\bin\Debug\Inputarray.exe
+D:\dotnet training\Day 40\Inputarray\Inputarray\bin\Debug\Inputarray.pdb
+D:\dotnet training\Day 40\Inputarray\Inputarray\obj\Debug\Inputarray.csproj.AssemblyReference.cache
+D:\dotnet training\Day 40\Inputarray\Inputarray\obj\Debug\Inputarray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 40\Inputarray\Inputarray\obj\Debug\Inputarray.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 40\Inputarray\Inputarray\obj\Debug\Inputarray.exe
+D:\dotnet training\Day 40\Inputarray\Inputarray\obj\Debug\Inputarray.pdb
