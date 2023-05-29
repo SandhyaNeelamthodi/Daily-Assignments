@@ -1,0 +1,8 @@
+D:\dotnet training\Day 41\codechallenge\codechallenge\bin\Debug\codechallenge.exe.config
+D:\dotnet training\Day 41\codechallenge\codechallenge\bin\Debug\codechallenge.exe
+D:\dotnet training\Day 41\codechallenge\codechallenge\bin\Debug\codechallenge.pdb
+D:\dotnet training\Day 41\codechallenge\codechallenge\obj\Debug\codechallenge.csproj.AssemblyReference.cache
+D:\dotnet training\Day 41\codechallenge\codechallenge\obj\Debug\codechallenge.csproj.SuggestedBindingRedirects.cache
+D:\dotnet training\Day 41\codechallenge\codechallenge\obj\Debug\codechallenge.csproj.CoreCompileInputs.cache
+D:\dotnet training\Day 41\codechallenge\codechallenge\obj\Debug\codechallenge.exe
+D:\dotnet training\Day 41\codechallenge\codechallenge\obj\Debug\codechallenge.pdb
