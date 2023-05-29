@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let numbers=[10,20,30,40,50,60,70,80,90,100];
+        let rev=numbers.reverse();
+        document.write(rev);
+
+        for(let i=0;i<rev.length;i++)
+        {try{
+            if(rev[i]>50)
+            {
+                document.write(rev[i]);
+            }
+            else
+            {
+                throw  Error;
+            }
+        }
+        catch(Error){
+            document.write("\terror");
+
+        }
+        }
+        for(let i=0;i<rev.length;i++)
+        {
+            if(rev[i]%2==0)
+            {
+                document.write(rev[i]);
+            }
+            
+            
+        }
+    </script>
+</body>
+</html>

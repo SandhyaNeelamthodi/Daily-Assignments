@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+    box-sizing: border-box;
+    color: black;
+    font-size: x-large;
+}
+.navbar
+{
+    color: black;
+
+}
+.navbar a{
+   
+    text-decoration: none;
+   
+    color: black;
+   
+    font-size: 18px;
+   
+    
+   
+   }
+
+nav ul a:hover
+{
+    background-color: gold;
+    color: black;
+
+}
+.slides-box{
+    background-color: bisque;
+}
+/*.item
+{
+    width: 80;
+    height: 90vh;
+    display: flex;
+    background-image: url(Home.jpg);
+    background-repeat: no-repeat;
+    
+    justify-content: space-around;
+    background-position: center;
+    background-size: cover;
+
+}*/
+#logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 0;
+    top: 0px;
+}
+.slides-box{
+
+
+
+    display: flex;
+   
+    align-items: center;
+   
+    justify-content: center;
+   
+    height: 80%;
+   
+    width: 100%;
+   
+    margin-left: auto;
+   
+    margin-right: auto;
+   
+   }
+   
+   .slider{
+   
+    width: 1000px;
+   
+    height: 500px;
+   
+    border-radius: 4px;
+   
+    overflow: hidden;
+   
+   }
+   
+   .slides{
+   
+    width: 500%;
+   
+    height: 500px;
+   
+    display: flex;
+   
+   }
+   
+   .slides input{
+   
+    display: none;
+   
+   }
+   
+   .slide{
+   
+    width: 50%;
+   
+    transition: 1s;
+   
+   }
+   
+   .slide img{
+   
+    width: 1000px;
+   
+    height: 500px;
+   
+   }
+   
+   .first{
+   
+    animation-name: slide;
+   
+    animation-iteration-count: infinite;
+   
+    animation-duration: 15s;
+   
+    background: url(Images/Home.jpg) ;
+   
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+   
+    background-position: top center;
+   
+   }
+   
+   .second{
+   
+    background: url(Images/food1.jpg) ;
+   
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+   
+    background-position: top center
+   
+   }
+   
+   .third{
+   
+    background: url(Images/food2.jpg) ;
+   
+    background-repeat: no-repeat;
+   
+    background-size:auto;
+   
+    background-position: top center
+   
+   }
+   
+   @keyframes slide {
+   
+    0%{
+   
+     margin-left: 0;
+   
+    }
+   
+    16%{
+   
+     margin-left: 0;
+   
+    }
+   
+    32%{
+   
+     margin-left: -20%;
+   
+    }
+   
+    48%{
+   
+     margin-left: -20%;
+   
+    }
+   
+    64%{
+   
+     margin-left: -40%;
+   
+    }
+   
+    80%{
+   
+     margin-left: -40%;
+   
+    }
+   
+    100%{
+   
+     margin-left: 0;
+   
+    }
+   
+   }
+
+   .footer{
+
+    width: 100%;
+   
+    height: 50px;
+   
+    display: flex;
+   
+    justify-content: space-around;
+   
+    align-items: center;
+    background-color: gold;
+   
+   }
+   
+   .footer a{
+   
+    text-decoration: none;
+   
+    color: black;
+   
+    font-size: 18px;
+   
+    font-weight: bold;
+   
+   }
+   
+   .footer a:hover{
+   
+    text-decoration: underline;
+   
+    transition: 0.4s;
+   
+   }
+   
+   
